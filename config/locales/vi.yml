@@ -281,7 +281,7 @@ vi:
     add_state: Thêm bang
     add_stock: Thêm hàng hoá
     add_stock_management: Tạo quản lý hàng
-    add_to_cart: Cho vào sọt
+    add_to_cart: Thêm vào giỏ hàng
     add_variant: Tạo biến thể
     additional_item: Giá phải trả thêm
     address1: Địa chỉ
@@ -499,7 +499,7 @@ vi:
     editing_zone: Sửa đổi vùng
     email: Email
     empty: 0
-    empty_cart: Làm rỗng sọt
+    empty_cart: Không có sản phẩm nào trong giỏ hàng
     enable_mail_delivery: Cho phép vận chuyển thư
     end: Kết thúc
     ending_in: Kết thúc trong
@@ -517,7 +517,7 @@ vi:
     events:
       spree:
         cart:
-          add: Cho vào sọt
+          add: Thêm vào giỏ hàng
         checkout:
           coupon_code_added: Mã coupon đã được thêm vào
         content:
@@ -953,7 +953,7 @@ vi:
     shipping_methods: Phương thức vận chuyển
     shipping_price_sack: Xô giá
     shop_by_taxonomy: Mua theo %{taxonomy}
-    shopping_cart: Sọt mua sắm
+    shopping_cart: Giỏ hàng
     show: Xem
     show_active: Liệt kê đơn còn hiệu lực
     show_deleted: Hiện đơn hàng đã xóa
@@ -1078,9 +1078,9 @@ vi:
     width: Rộng
     year: Năm
     you_have_no_orders_yet: You have no orders yet.
-    your_cart_is_empty: Sọt hàng rỗng
-    your_order_is_empty_add_product: Đơn hàng của bạn rỗng, xin hay tìm và thêm vào một sản phảm như trên
+    your_cart_is_empty: Không có sản phẩm nào trong giỏ hàng
+    your_order_is_empty_add_product: Không có sản phẩm nào trong đơn hàng, Xin vui lòng chọn sản phẩm thêm vào đơn hàng
     zip: Mã bưu điện
-    zipcode: Mã Zip
+    zipcode: Zipcode
     zone: Vùng
     zones: Vùng
