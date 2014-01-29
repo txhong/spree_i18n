@@ -10,7 +10,7 @@ vi:
         lastname: Họ
         phone: Điện thoại
         state: Bang
-        zipcode: Mã Zip
+        zipcode: Zipcode
       spree/country:
         iso: ISO
         iso3: ISO3
@@ -498,7 +498,7 @@ vi:
     editing_user: Sửa đổi người dùng
     editing_zone: Sửa đổi vùng
     email: Email
-    empty: Empty
+    empty: 0
     empty_cart: Làm rỗng sọt
     enable_mail_delivery: Cho phép vận chuyển thư
     end: Kết thúc
@@ -945,7 +945,7 @@ vi:
     shipping_address: Địa chỉ giao hàng
     shipping_categories: Loại vận chuyển
     shipping_category: Loại vận chuyển
-    shipping_flat_rate_per_item: Giá thấp nhất với từng mục gói
+    shipping_flat_rate_per_item: Giá thấp nhất với từng mục gói
     shipping_flat_rate_per_order: Giá thấp nhất
     shipping_flexible_rate: Suất linh hoạt với từng mục gói
     shipping_instructions: Các chỉ dẫn vận chuyển
